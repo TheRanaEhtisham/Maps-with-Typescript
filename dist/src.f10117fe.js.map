@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.ts"],"names":[],"mappings":"AAAA;AACA;AAEA;AAEA;AAEA;AAEA","file":"src.f10117fe.js","sourceRoot":"..","sourcesContent":["// import { Company } from './Company';\r\n// import { User } from './User';\r\n\r\n// const user = new User();\r\n\r\n// console.log(user)\r\n\r\n// const company = new Company();\r\n\r\n// console.log(company)\r\n\r\n"]}
